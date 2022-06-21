@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/XOsX.gif" width="100%" alt="">
+<img src="https://imagenes.20minutos.es/uploads/imagenes/2016/07/11/EranGOTGif0006.gif" width="100%" alt="">
 <h1 align="center">Hi 👋, I'm Santiago Ortiz Sanchez</h1>
 <h3 align="center">A passionate frontend developer from Medellin</h3>
 
